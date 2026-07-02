@@ -1,0 +1,471 @@
+[
+    {
+        "id": "i1",
+        "name": "Hot Coffee",
+        "price": 80,
+        "category": "Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i2",
+        "name": "Black Coffee",
+        "price": 80,
+        "category": "Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i3",
+        "name": "Hazelnut Cold Coffee",
+        "price": 125,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i4",
+        "name": "Chocolate Cold Coffee",
+        "price": 125,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i5",
+        "name": "Caramel Cold Coffee",
+        "price": 125,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i6",
+        "name": "Classic Cold Coffee",
+        "price": 100,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i7",
+        "name": "Iced Americano",
+        "price": 160,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1551046710-2342eff6a673?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i8",
+        "name": "Maggie",
+        "price": 30,
+        "category": "Snacks",
+        "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i9",
+        "name": "Cappuccino",
+        "price": 120,
+        "category": "Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i10",
+        "name": "Latte",
+        "price": 140,
+        "category": "Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i11",
+        "name": "Mocha",
+        "price": 150,
+        "category": "Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1546041821-1d5a2c526c4e?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i12",
+        "name": "Espresso",
+        "price": 90,
+        "category": "Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i13",
+        "name": "Vanilla Cold Coffee",
+        "price": 130,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1553244849-f4b1d0b06a53?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i14",
+        "name": "Mint Cold Coffee",
+        "price": 135,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i15",
+        "name": "Oreo Shake",
+        "price": 145,
+        "category": "Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i16",
+        "name": "Vegetable Maggie",
+        "price": 50,
+        "category": "Snacks",
+        "image": "https://images.unsplash.com/photo-1625944525533-473f1a3d54e7?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i17",
+        "name": "Cheese Maggie",
+        "price": 60,
+        "category": "Snacks",
+        "image": "https://images.unsplash.com/photo-1606103920295-972888a6ce84?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i18",
+        "name": "Sandwich",
+        "price": 80,
+        "category": "Snacks",
+        "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i19",
+        "name": "French Fries",
+        "price": 70,
+        "category": "Snacks",
+        "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "i20",
+        "name": "Garlic Bread",
+        "price": 60,
+        "category": "Snacks",
+        "image": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind1",
+        "name": "Masala Chai",
+        "price": 30,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind2",
+        "name": "Elaichi (Cardamom) Chai",
+        "price": 35,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1611365892117-00ac5ef43c90?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind3",
+        "name": "Adrak (Ginger) Chai",
+        "price": 35,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1558160074-4d7d8bdf4256?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind4",
+        "name": "Cutting Chai",
+        "price": 25,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1542124948-dc391252a940?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind5",
+        "name": "Filter Coffee (South Indian)",
+        "price": 40,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind6",
+        "name": "Badam Milk (Hot)",
+        "price": 50,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind7",
+        "name": "Turmeric Milk (Haldi Doodh)",
+        "price": 45,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1614167739025-5c3d29c6d00f?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind8",
+        "name": "Kashmiri Kahwa",
+        "price": 60,
+        "category": "Indian Style Hot Beverages",
+        "image": "https://images.unsplash.com/photo-1584448082637-23d7d3283848?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind9",
+        "name": "Sweet Lassi",
+        "price": 40,
+        "category": "Indian Style Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1626200419199-391ae4be7a41?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind10",
+        "name": "Salted Lassi",
+        "price": 35,
+        "category": "Indian Style Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind11",
+        "name": "Mango Lassi",
+        "price": 55,
+        "category": "Indian Style Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind12",
+        "name": "Rose Milk",
+        "price": 45,
+        "category": "Indian Style Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1626200419199-391ae4be7a41?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind13",
+        "name": "Buttermilk (Chaas)",
+        "price": 30,
+        "category": "Indian Style Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1601050690114-9733f6de2b7f?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind14",
+        "name": "Thandai",
+        "price": 50,
+        "category": "Indian Style Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1551446339-1e7455144dc0?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind15",
+        "name": "Cold Badam Milk",
+        "price": 55,
+        "category": "Indian Style Cold Beverages",
+        "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind16",
+        "name": "Samosa (Veg)",
+        "price": 25,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind17",
+        "name": "Samosa (Paneer)",
+        "price": 35,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1626128154727-5389558c6595?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind18",
+        "name": "Kachori",
+        "price": 25,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind19",
+        "name": "Vada Pav",
+        "price": 30,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind20",
+        "name": "Pav Bhaji",
+        "price": 80,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1626132647523-66dbeac34534?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind21",
+        "name": "Dhokla",
+        "price": 50,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1589301760014-d929f3979db5?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind22",
+        "name": "Khaman",
+        "price": 45,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1630404384362-1c8f9f2f9d8c?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind23",
+        "name": "Aloo Tikki",
+        "price": 40,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind24",
+        "name": "Paneer Pakora",
+        "price": 60,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind25",
+        "name": "Onion Pakora",
+        "price": 35,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind26",
+        "name": "Bread Pakora",
+        "price": 40,
+        "category": "Indian Snacks (Savory)",
+        "image": "https://images.unsplash.com/photo-1625944525533-473f1a3d54e7?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind27",
+        "name": "Chole Bhature",
+        "price": 100,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1626132647523-66dbeac34534?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind28",
+        "name": "Puri Bhaji",
+        "price": 90,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind29",
+        "name": "Veg Pulao",
+        "price": 120,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind30",
+        "name": "Rajma Chawal",
+        "price": 130,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind31",
+        "name": "Paneer Butter Masala with Naan",
+        "price": 180,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind32",
+        "name": "Masala Dosa",
+        "price": 100,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind33",
+        "name": "Idli Sambar",
+        "price": 80,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1589301760014-d929f3979db5?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind34",
+        "name": "Upma",
+        "price": 70,
+        "category": "Indian Light Meals",
+        "image": "https://images.unsplash.com/photo-1630404384362-1c8f9f2f9d8c?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind35",
+        "name": "Gulab Jamun",
+        "price": 40,
+        "category": "Indian Desserts / Sweets",
+        "image": "https://images.unsplash.com/photo-1626128154727-5389558c6595?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind36",
+        "name": "Rasgulla",
+        "price": 45,
+        "category": "Indian Desserts / Sweets",
+        "image": "https://images.unsplash.com/photo-1597393557895-6e6f9958681f?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind37",
+        "name": "Jalebi",
+        "price": 50,
+        "category": "Indian Desserts / Sweets",
+        "image": "https://images.unsplash.com/photo-1626128154727-5389558c6595?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind38",
+        "name": "Kaju Katli",
+        "price": 80,
+        "category": "Indian Desserts / Sweets",
+        "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind39",
+        "name": "Gajar Halwa",
+        "price": 60,
+        "category": "Indian Desserts / Sweets",
+        "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind40",
+        "name": "Rasmalai",
+        "price": 70,
+        "category": "Indian Desserts / Sweets",
+        "image": "https://images.unsplash.com/photo-1597393557895-6e6f9958681f?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind41",
+        "name": "Shrikhand",
+        "price": 55,
+        "category": "Indian Desserts / Sweets",
+        "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind42",
+        "name": "Masala Maggi",
+        "price": 50,
+        "category": "Fusion (Indian + Café Style)",
+        "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind43",
+        "name": "Tandoori Paneer Sandwich",
+        "price": 90,
+        "category": "Fusion (Indian + Café Style)",
+        "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind44",
+        "name": "Bombay Grilled Sandwich",
+        "price": 80,
+        "category": "Fusion (Indian + Café Style)",
+        "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind45",
+        "name": "Peri Peri Fries (Indian Spice Style)",
+        "price": 85,
+        "category": "Fusion (Indian + Café Style)",
+        "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind46",
+        "name": "Chai Latte",
+        "price": 80,
+        "category": "Fusion (Indian + Café Style)",
+        "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?q=80&w=300&h=300&fit=crop"
+    },
+    {
+        "id": "ind47",
+        "name": "Elaichi Cappuccino",
+        "price": 90,
+        "category": "Fusion (Indian + Café Style)",
+        "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?q=80&w=300&h=300&fit=crop"
+    }
+]
